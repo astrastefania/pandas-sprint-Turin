@@ -10,7 +10,7 @@ More details here: <http://bit.ly/pds-to>
 | Function                  | Code              | Assigned to | Notes |
 |---------------------------|-------------------------------------------------------------------------------|----------|--|
 | pandas.Series.rename_axis | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L915  | [Riccardo](https://github.com/xrmx) | |
-| pandas.Series.reset_index | https://github.com/pandas-dev/pandas/blob/master/pandas/core/series.py#L1003  | [Ludovico](https://github.com/ludusrusso) | [PR] (https://github.com/pandas-dev/pandas/pull/20107)|
+| pandas.Series.reset_index | https://github.com/pandas-dev/pandas/blob/master/pandas/core/series.py#L1003  | [Ludovico](https://github.com/ludusrusso) | [pull-20107](https://github.com/pandas-dev/pandas/pull/20107)|
 | pandas.Series.sample      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3718 | Ottavia  | |
 | pandas.Series.set_axis    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L551  | [Stefania](https://github.com/astrastefania) | |
 | pandas.Series.take        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2591 | [Gianpaolo](https://github.com/gmacario) | |
