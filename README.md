@@ -15,10 +15,10 @@ More details here: <http://bit.ly/pds-to>
 | pandas.Series.sample      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3718 | [Ottavia](https://github.com/ottiP)  |[pull-20109](https://github.com/pandas-dev/pandas/pull/20109) |
 | pandas.Series.set_axis    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L551  | [Stefania](https://github.com/astrastefania) |[pull-20164](https://github.com/pandas-dev/pandas/pull/20164) |
 | pandas.Series.take        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2591 | [Gianpaolo](https://github.com/gmacario) | [pull-20179](https://github.com/pandas-dev/pandas/pull/20179)|
-| pandas.Series.tail        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3661 | [Marco](https://github.com/hernan82)   | [pull-20176]](https://github.com/pandas-dev/pandas/pull/20176) |
+| pandas.Series.tail        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3661 | [Marco](https://github.com/hernan82)   | [pull-20176](https://github.com/pandas-dev/pandas/pull/20176) |
 | pandas.Series.truncate    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6889 | [Simone](https://github.com/simobasso)   | [pull-20125](https://github.com/pandas-dev/pandas/pull/20125)|
 | pandas.Series.where       | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6715 | [Simone](https://github.com/simobasso)   | [pull-20165](https://github.com/pandas-dev/pandas/pull/20165)|
-| pandas.Series.mask        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6736 | - | |
+| pandas.Series.mask        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6736 | - | Same docstring of pandas.Series.where |
 | pandas.Series.add_prefix  | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2964 | - | |
 | pandas.Series.add_suffix  | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2979 | - | |
 | pandas.Series.filter      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3517 | [Ottavia](https://github.com/ottiP) | [pull-20148](https://github.com/pandas-dev/pandas/pull/20148) |
