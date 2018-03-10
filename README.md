@@ -13,7 +13,7 @@ More details here: <http://bit.ly/pds-to>
 | pandas.Series.reset_index | https://github.com/pandas-dev/pandas/blob/master/pandas/core/series.py#L1003  | [Ludovico](https://github.com/ludusrusso) | [pull-20107](https://github.com/pandas-dev/pandas/pull/20107)|
 | pandas.Series.sample      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3718 | Ottavia  | |
 | pandas.Series.set_axis    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L551  | [Stefania](https://github.com/astrastefania) | |
-| pandas.Series.take        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2591 | [Gianpaolo](https://github.com/gmacario) | |
+| pandas.Series.take        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2591 | [Gianpaolo](https://github.com/gmacario) | [pull-20179](https://github.com/pandas-dev/pandas/pull/20179)|
 | pandas.Series.tail        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3661 | Marco    | TODO: PR from this [commit](https://github.com/hernan82/pandas/commit/b1866099c25365ca896735d3203bd848e591b347) |
 | pandas.Series.truncate    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6889 | Simone   | |
 | pandas.Series.where       | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6715 | - | |
