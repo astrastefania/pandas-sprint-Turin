@@ -1,5 +1,6 @@
 # Pandas Documentation Sprint, Turin
 
+More details here http://bit.ly/pds-to
  
 pandas.Series.rename_axis > Riccardo  
 https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L915  
