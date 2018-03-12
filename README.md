@@ -7,6 +7,8 @@ More details here: <http://bit.ly/pds-to>
 
 ### Assigned issues
 
+:white_check_mark: = Merged!
+
 | Function                  | Code              | Assigned to | Notes |
 |---------------------------|-------------------------------------------------------------------------------|----------|--|
 | pandas.MultiIndex.swaplevel | https://github.com/pandas-dev/pandas/blob/master/pandas/core/indexes/multi.py#L1776 | [Riccardo](https://github.com/xrmx)| [pull-20105](https://github.com/pandas-dev/pandas/pull/20105) :white_check_mark:|
@@ -18,9 +20,9 @@ More details here: <http://bit.ly/pds-to>
 | pandas.Series.tail        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3661 | [Marco](https://github.com/hernan82)   | [pull-20176](https://github.com/pandas-dev/pandas/pull/20176) :white_check_mark:|
 | pandas.Series.truncate    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6889 | [Simone](https://github.com/simobasso)   | [pull-20125](https://github.com/pandas-dev/pandas/pull/20125)|
 | pandas.Series.where       | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6715 | [Simone](https://github.com/simobasso)   | [pull-20165](https://github.com/pandas-dev/pandas/pull/20165)|
-| pandas.Series.mask        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6736 | - | Same docstring of pandas.Series.where |
-| pandas.Series.add_prefix  | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2964 | - | |
-| pandas.Series.add_suffix  | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2979 | - | |
+| pandas.Series.mask        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L6736 | > | Same docstring of pandas.Series.where |
+| pandas.Series.add_prefix  | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2964 | [Stefania](https://github.com/astrastefania) |[pull-20313](https://github.com/pandas-dev/pandas/pull/20313) |
+| pandas.Series.add_suffix  | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2979 | [Stefania](https://github.com/astrastefania) |[pull-20315](https://github.com/pandas-dev/pandas/pull/20315) |
 | pandas.Series.filter      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3517 | [Ottavia](https://github.com/ottiP) | [pull-20148](https://github.com/pandas-dev/pandas/pull/20148) |
 
 <!-- EOF -->
