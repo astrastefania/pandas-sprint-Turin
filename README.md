@@ -9,8 +9,8 @@ More details here: <http://bit.ly/pds-to>
 
 | Function                  | Code              | Assigned to | Notes |
 |---------------------------|-------------------------------------------------------------------------------|----------|--|
-| pandas.MultiIndex.swaplevel | https://github.com/pandas-dev/pandas/blob/master/pandas/core/indexes/multi.py#L1776 | [Riccardo](https://github.com/xrmx) | [pull-20105](https://github.com/pandas-dev/pandas/pull/20105)|
-| pandas.Series.rename_axis | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L915  | [Riccardo](https://github.com/xrmx) | [pull-20137](https://github.com/pandas-dev/pandas/pull/20137) :white_check_mark:|
+| pandas.MultiIndex.swaplevel | https://github.com/pandas-dev/pandas/blob/master/pandas/core/indexes/multi.py#L1776 | [Riccardo](https://github.com/xrmx)| [pull-20105](https://github.com/pandas-dev/pandas/pull/20105) :white_check_mark:|
+| pandas.Series.rename_axis | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L915  | [Riccardo](https://github.com/xrmx) | [pull-20137](https://github.com/pandas-dev/pandas/pull/20137)|
 | pandas.Series.reset_index | https://github.com/pandas-dev/pandas/blob/master/pandas/core/series.py#L1003  | [Ludovico](https://github.com/ludusrusso) | [pull-20107](https://github.com/pandas-dev/pandas/pull/20107)|
 | pandas.Series.sample      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3718 | [Ottavia](https://github.com/ottiP)  |[pull-20109](https://github.com/pandas-dev/pandas/pull/20109) |
 | pandas.Series.set_axis    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L551  | [Stefania](https://github.com/astrastefania) |[pull-20164](https://github.com/pandas-dev/pandas/pull/20164) |
