@@ -13,7 +13,7 @@ More details here: <http://bit.ly/pds-to>
 |---------------------------|-------------------------------------------------------------------------------|----------|--|
 | pandas.MultiIndex.swaplevel | https://github.com/pandas-dev/pandas/blob/master/pandas/core/indexes/multi.py#L1776 | [Riccardo](https://github.com/xrmx)| [pull-20105](https://github.com/pandas-dev/pandas/pull/20105) :purple_heart:|
 | pandas.Series.rename_axis | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L915  | [Riccardo](https://github.com/xrmx) | [pull-20137](https://github.com/pandas-dev/pandas/pull/20137) :purple_heart:|
-| pandas.Series.reset_index | https://github.com/pandas-dev/pandas/blob/master/pandas/core/series.py#L1003  | [Ludovico](https://github.com/ludusrusso) | [pull-20107](https://github.com/pandas-dev/pandas/pull/20107)|
+| pandas.Series.reset_index | https://github.com/pandas-dev/pandas/blob/master/pandas/core/series.py#L1003  | [Ludovico](https://github.com/ludusrusso) | [pull-20107](https://github.com/pandas-dev/pandas/pull/20107) :purple_heart:|
 | pandas.Series.sample      | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L3718 | [Ottavia](https://github.com/ottiP)  |[pull-20109](https://github.com/pandas-dev/pandas/pull/20109) :purple_heart:|
 | pandas.Series.set_axis    | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L551  | [Stefania](https://github.com/astrastefania) |[pull-20164](https://github.com/pandas-dev/pandas/pull/20164) |
 | pandas.Series.take        | https://github.com/pandas-dev/pandas/blob/master/pandas/core/generic.py#L2591 | [Gianpaolo](https://github.com/gmacario) | [pull-20179](https://github.com/pandas-dev/pandas/pull/20179) :purple_heart:|
